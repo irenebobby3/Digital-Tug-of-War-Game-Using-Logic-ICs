@@ -52,3 +52,10 @@ Digital Electronics | Logic ICs | Counters | Decoders | Sequential Logic | LED M
 
 ## Project Type
 Academic Group Project – Electronics and Communication Engineering
+## Project Gallery
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.png)
+
+### Hardware Implementation
+![Project Setup](images/project-setup.png)
