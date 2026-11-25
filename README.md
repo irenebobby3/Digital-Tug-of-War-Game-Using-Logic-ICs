@@ -45,6 +45,13 @@ The project was implemented using logic ICs on a breadboard with a regulated +5V
 - Sequential circuit applications.
 - Digital display interfacing.
 - Hardware circuit design and troubleshooting.
+- ## Project Gallery
+
+### Circuit Diagram
+![Circuit Diagram](images/circuit-diagram.png)
+
+### Hardware Implementation
+![Project Setup](images/project-setup.png)
 
 ## Technologies and Concepts
 Digital Electronics | Logic ICs | Counters | Decoders | Sequential Logic | LED Matrix | 7-Segment Display
